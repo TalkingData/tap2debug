@@ -1,0 +1,9 @@
+Package: com.dodo.tap2debug
+Name: Tap2Debug
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: bliss_ddo
+Author: bliss_ddo
+Section: Tweaks
